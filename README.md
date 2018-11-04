@@ -1,2 +1,2 @@
 # hello_world
-it prints the text "hello world"
+it prints  "hello world"
