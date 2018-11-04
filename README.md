@@ -1,2 +1,2 @@
 # hello_world
-it is about printing hello world
+it prints the text "hello world"
